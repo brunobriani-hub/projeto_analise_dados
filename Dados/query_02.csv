@@ -1,0 +1,86 @@
+EMPLOYEE_ID,FIRST_NAME,LAST_NAME,SALARY,HIRE_DATE,DEPARTMENT_NAME,CITY,COUNTRY_NAME,REGION_NAME
+201,Michael,Martinez,13000.0,2014-02-17,Marketing,Toronto,Canada,Americas
+202,Pat,Davis,6000.0,2015-08-17,Marketing,Toronto,Canada,Americas
+205,Shelley,Higgins,12008.0,2012-06-07,Accounting,Seattle,United States of America,Americas
+206,William,Gietz,8300.0,2012-06-07,Accounting,Seattle,United States of America,Americas
+200,Jennifer,Whalen,4400.0,2013-09-17,Administration,Seattle,United States of America,Americas
+100,Steven,King,24000.0,2013-06-17,Executive,Seattle,United States of America,Americas
+101,Neena,Yang,17000.0,2015-09-21,Executive,Seattle,United States of America,Americas
+102,Lex,Garcia,17000.0,2011-01-13,Executive,Seattle,United States of America,Americas
+108,Nancy,Gruenberg,12008.0,2012-08-17,Finance,Seattle,United States of America,Americas
+109,Daniel,Faviet,9000.0,2012-08-16,Finance,Seattle,United States of America,Americas
+110,John,Chen,8200.0,2015-09-28,Finance,Seattle,United States of America,Americas
+112,Jose Manuel,Urman,7800.0,2016-03-07,Finance,Seattle,United States of America,Americas
+111,Ismael,Sciarra,7700.0,2015-09-30,Finance,Seattle,United States of America,Americas
+113,Luis,Popp,6900.0,2017-12-07,Finance,Seattle,United States of America,Americas
+103,Alexander,James,9000.0,2016-01-03,IT,Southlake,United States of America,Americas
+104,Bruce,Miller,6000.0,2017-05-21,IT,Southlake,United States of America,Americas
+105,David,Williams,4800.0,2015-06-25,IT,Southlake,United States of America,Americas
+106,Valli,Jackson,4800.0,2016-02-05,IT,Southlake,United States of America,Americas
+107,Diana,Nguyen,4200.0,2017-02-07,IT,Southlake,United States of America,Americas
+114,Den,Li,11000.0,2012-12-07,Purchasing,Seattle,United States of America,Americas
+115,Alexander,Khoo,3100.0,2013-05-18,Purchasing,Seattle,United States of America,Americas
+116,Shelli,Baida,2900.0,2015-12-24,Purchasing,Seattle,United States of America,Americas
+121,Adam,Fripp,8200.0,2015-04-10,Shipping,South San Francisco,United States of America,Americas
+120,Matthew,Weiss,8000.0,2014-07-18,Shipping,South San Francisco,United States of America,Americas
+122,Payam,Kaufling,7900.0,2013-05-01,Shipping,South San Francisco,United States of America,Americas
+123,Shanta,Vollman,6500.0,2015-10-10,Shipping,South San Francisco,United States of America,Americas
+124,Kevin,Mourgos,5800.0,2017-11-16,Shipping,South San Francisco,United States of America,Americas
+184,Nandita,Sarchand,4200.0,2014-01-27,Shipping,South San Francisco,United States of America,Americas
+185,Alexis,Bull,4100.0,2015-02-20,Shipping,South San Francisco,United States of America,Americas
+192,Sarah,Bell,4000.0,2014-02-04,Shipping,South San Francisco,United States of America,Americas
+193,Britney,Everett,3900.0,2015-03-03,Shipping,South San Francisco,United States of America,Americas
+188,Kelly,Chung,3800.0,2015-06-14,Shipping,South San Francisco,United States of America,Americas
+137,Renske,Ladwig,3600.0,2013-07-14,Shipping,South San Francisco,United States of America,Americas
+189,Jennifer,Dilly,3600.0,2015-08-13,Shipping,South San Francisco,United States of America,Americas
+141,Trenna,Rajs,3500.0,2013-10-17,Shipping,South San Francisco,United States of America,Americas
+186,Julia,Dellinger,3400.0,2016-06-24,Shipping,South San Francisco,United States of America,Americas
+129,Laura,Bissot,3300.0,2015-08-20,Shipping,South San Francisco,United States of America,Americas
+133,Jason,Mallin,3300.0,2014-06-14,Shipping,South San Francisco,United States of America,Americas
+138,Stephen,Stiles,3200.0,2015-10-26,Shipping,South San Francisco,United States of America,Americas
+125,Julia,Nayer,3200.0,2015-07-16,Shipping,South San Francisco,United States of America,Americas
+180,Winston,Taylor,3200.0,2016-01-24,Shipping,South San Francisco,United States of America,Americas
+194,Samuel,McLeod,3200.0,2016-07-01,Shipping,South San Francisco,United States of America,Americas
+142,Curtis,Davies,3100.0,2015-01-29,Shipping,South San Francisco,United States of America,Americas
+196,Alana,Walsh,3100.0,2016-04-24,Shipping,South San Francisco,United States of America,Americas
+181,Jean,Fleaur,3100.0,2016-02-23,Shipping,South San Francisco,United States of America,Americas
+187,Anthony,Cabrio,3000.0,2017-02-07,Shipping,South San Francisco,United States of America,Americas
+197,Kevin,Feeney,3000.0,2016-05-23,Shipping,South San Francisco,United States of America,Americas
+190,Timothy,Venzl,2900.0,2016-07-11,Shipping,South San Francisco,United States of America,Americas
+134,Michael,Rogers,2900.0,2016-08-26,Shipping,South San Francisco,United States of America,Americas
+204,Hermann,Brown,10000.0,2012-06-07,Public Relations,Munich,Germany,Europe
+203,Susan,Jacobs,6500.0,2012-06-07,Human Resources,London,United Kingdom of Great Britain and Northern Ireland,Europe
+145,John,Singh,14000.0,2014-10-01,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+146,Karen,Partners,13500.0,2015-01-05,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+147,Alberto,Errazuriz,12000.0,2015-03-10,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+168,Lisa,Ozer,11500.0,2015-03-11,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+148,Gerald,Cambrault,11000.0,2017-10-15,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+174,Ellen,Abel,11000.0,2014-05-11,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+149,Eleni,Zlotkey,10500.0,2018-01-29,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+162,Clara,Vishney,10500.0,2015-11-11,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+169,Harrison,Bloom,10000.0,2016-03-23,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+150,Sean,Tucker,10000.0,2015-01-30,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+156,Janette,King,10000.0,2014-01-30,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+170,Tayler,Fox,9600.0,2016-01-24,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+163,Danielle,Greene,9500.0,2017-03-19,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+157,Patrick,Sully,9500.0,2014-03-04,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+151,David,Bernstein,9500.0,2015-03-24,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+158,Allan,McEwen,9000.0,2014-08-01,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+152,Peter,Hall,9000.0,2015-08-20,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+175,Alyssa,Hutton,8800.0,2015-03-19,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+176,Jonathon,Taylor,8600.0,2016-03-24,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+177,Jack,Livingston,8400.0,2016-04-23,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+153,Christopher,Olsen,8000.0,2016-03-30,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+159,Lindsey,Smith,8000.0,2015-03-10,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+154,Nanette,Cambrault,7500.0,2016-12-09,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+160,Louise,Doran,7500.0,2015-12-15,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+171,William,Smith,7400.0,2017-02-23,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+172,Elizabeth,Bates,7300.0,2017-03-24,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+164,Mattea,Marvins,7200.0,2018-01-24,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+155,Oliver,Tuvault,7000.0,2017-11-23,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+161,Sarath,Sewall,7000.0,2016-11-03,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+165,David,Lee,6800.0,2018-02-23,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+166,Sundar,Ande,6400.0,2018-03-24,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+179,Charles,Johnson,6200.0,2018-01-04,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+167,Amit,Banda,6200.0,2018-04-21,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe
+173,Sundita,Kumar,6100.0,2018-04-21,Sales,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe

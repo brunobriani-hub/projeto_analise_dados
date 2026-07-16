@@ -1,0 +1,86 @@
+FIRST_NAME,LAST_NAME,HIRE_DATE,JOB_TITLE,DEPARTMENT_NAME,SALARY
+Shelley,Higgins,2012-06-07,Accounting Manager,Accounting,12008.0
+William,Gietz,2012-06-07,Public Accountant,Accounting,8300.0
+Jennifer,Whalen,2013-09-17,Administration Assistant,Administration,4400.0
+Neena,Yang,2015-09-21,Administration Vice President,Executive,17000.0
+Lex,Garcia,2011-01-13,Administration Vice President,Executive,17000.0
+Steven,King,2013-06-17,President,Executive,24000.0
+Daniel,Faviet,2012-08-16,Accountant,Finance,9000.0
+John,Chen,2015-09-28,Accountant,Finance,8200.0
+Jose Manuel,Urman,2016-03-07,Accountant,Finance,7800.0
+Ismael,Sciarra,2015-09-30,Accountant,Finance,7700.0
+Luis,Popp,2017-12-07,Accountant,Finance,6900.0
+Nancy,Gruenberg,2012-08-17,Finance Manager,Finance,12008.0
+Susan,Jacobs,2012-06-07,Human Resources Representative,Human Resources,6500.0
+Alexander,James,2016-01-03,Programmer,IT,9000.0
+Bruce,Miller,2017-05-21,Programmer,IT,6000.0
+Valli,Jackson,2016-02-05,Programmer,IT,4800.0
+David,Williams,2015-06-25,Programmer,IT,4800.0
+Diana,Nguyen,2017-02-07,Programmer,IT,4200.0
+Michael,Martinez,2014-02-17,Marketing Manager,Marketing,13000.0
+Pat,Davis,2015-08-17,Marketing Representative,Marketing,6000.0
+Hermann,Brown,2012-06-07,Public Relations Representative,Public Relations,10000.0
+Alexander,Khoo,2013-05-18,Purchasing Clerk,Purchasing,3100.0
+Shelli,Baida,2015-12-24,Purchasing Clerk,Purchasing,2900.0
+Den,Li,2012-12-07,Purchasing Manager,Purchasing,11000.0
+John,Singh,2014-10-01,Sales Manager,Sales,14000.0
+Karen,Partners,2015-01-05,Sales Manager,Sales,13500.0
+Alberto,Errazuriz,2015-03-10,Sales Manager,Sales,12000.0
+Gerald,Cambrault,2017-10-15,Sales Manager,Sales,11000.0
+Eleni,Zlotkey,2018-01-29,Sales Manager,Sales,10500.0
+Lisa,Ozer,2015-03-11,Sales Representative,Sales,11500.0
+Ellen,Abel,2014-05-11,Sales Representative,Sales,11000.0
+Clara,Vishney,2015-11-11,Sales Representative,Sales,10500.0
+Sean,Tucker,2015-01-30,Sales Representative,Sales,10000.0
+Janette,King,2014-01-30,Sales Representative,Sales,10000.0
+Harrison,Bloom,2016-03-23,Sales Representative,Sales,10000.0
+Tayler,Fox,2016-01-24,Sales Representative,Sales,9600.0
+Danielle,Greene,2017-03-19,Sales Representative,Sales,9500.0
+Patrick,Sully,2014-03-04,Sales Representative,Sales,9500.0
+David,Bernstein,2015-03-24,Sales Representative,Sales,9500.0
+Peter,Hall,2015-08-20,Sales Representative,Sales,9000.0
+Allan,McEwen,2014-08-01,Sales Representative,Sales,9000.0
+Alyssa,Hutton,2015-03-19,Sales Representative,Sales,8800.0
+Jonathon,Taylor,2016-03-24,Sales Representative,Sales,8600.0
+Jack,Livingston,2016-04-23,Sales Representative,Sales,8400.0
+Christopher,Olsen,2016-03-30,Sales Representative,Sales,8000.0
+Lindsey,Smith,2015-03-10,Sales Representative,Sales,8000.0
+Nanette,Cambrault,2016-12-09,Sales Representative,Sales,7500.0
+Louise,Doran,2015-12-15,Sales Representative,Sales,7500.0
+William,Smith,2017-02-23,Sales Representative,Sales,7400.0
+Elizabeth,Bates,2017-03-24,Sales Representative,Sales,7300.0
+Mattea,Marvins,2018-01-24,Sales Representative,Sales,7200.0
+Sarath,Sewall,2016-11-03,Sales Representative,Sales,7000.0
+Oliver,Tuvault,2017-11-23,Sales Representative,Sales,7000.0
+David,Lee,2018-02-23,Sales Representative,Sales,6800.0
+Sundar,Ande,2018-03-24,Sales Representative,Sales,6400.0
+Amit,Banda,2018-04-21,Sales Representative,Sales,6200.0
+Charles,Johnson,2018-01-04,Sales Representative,Sales,6200.0
+Sundita,Kumar,2018-04-21,Sales Representative,Sales,6100.0
+Nandita,Sarchand,2014-01-27,Shipping Clerk,Shipping,4200.0
+Alexis,Bull,2015-02-20,Shipping Clerk,Shipping,4100.0
+Sarah,Bell,2014-02-04,Shipping Clerk,Shipping,4000.0
+Britney,Everett,2015-03-03,Shipping Clerk,Shipping,3900.0
+Kelly,Chung,2015-06-14,Shipping Clerk,Shipping,3800.0
+Jennifer,Dilly,2015-08-13,Shipping Clerk,Shipping,3600.0
+Julia,Dellinger,2016-06-24,Shipping Clerk,Shipping,3400.0
+Winston,Taylor,2016-01-24,Shipping Clerk,Shipping,3200.0
+Samuel,McLeod,2016-07-01,Shipping Clerk,Shipping,3200.0
+Alana,Walsh,2016-04-24,Shipping Clerk,Shipping,3100.0
+Jean,Fleaur,2016-02-23,Shipping Clerk,Shipping,3100.0
+Kevin,Feeney,2016-05-23,Shipping Clerk,Shipping,3000.0
+Anthony,Cabrio,2017-02-07,Shipping Clerk,Shipping,3000.0
+Timothy,Venzl,2016-07-11,Shipping Clerk,Shipping,2900.0
+Renske,Ladwig,2013-07-14,Stock Clerk,Shipping,3600.0
+Trenna,Rajs,2013-10-17,Stock Clerk,Shipping,3500.0
+Jason,Mallin,2014-06-14,Stock Clerk,Shipping,3300.0
+Laura,Bissot,2015-08-20,Stock Clerk,Shipping,3300.0
+Stephen,Stiles,2015-10-26,Stock Clerk,Shipping,3200.0
+Julia,Nayer,2015-07-16,Stock Clerk,Shipping,3200.0
+Curtis,Davies,2015-01-29,Stock Clerk,Shipping,3100.0
+Michael,Rogers,2016-08-26,Stock Clerk,Shipping,2900.0
+Adam,Fripp,2015-04-10,Stock Manager,Shipping,8200.0
+Matthew,Weiss,2014-07-18,Stock Manager,Shipping,8000.0
+Payam,Kaufling,2013-05-01,Stock Manager,Shipping,7900.0
+Shanta,Vollman,2015-10-10,Stock Manager,Shipping,6500.0
+Kevin,Mourgos,2017-11-16,Stock Manager,Shipping,5800.0
