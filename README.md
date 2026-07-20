@@ -94,7 +94,11 @@ Utilizando técnicas de estatística descritiva e visualização, examinou-se o 
 * **Assimetria nas Américas:** A distância entre média e mediana nas Américas comprova uma forte assimetria à direita, puxada pelos altos salários do topo frente à base volumosa.
 
 ---
+## 🎥 Demonstração do Projeto
 
+O vídeo a seguir apresenta a explicação detalhada do projeto, bem como a demonstração prática da visualização e utilização dos recursos desenvolvidos:
+
+👉 **[Assistir ao Vídeo de Demonstração no Google Drive](https://drive.google.com/file/d/1J-T4wzSr2saGRTo1sCn_k8102fmInaoA/view?usp=sharing)**
 ---
 **Autor:** Bruno Briani de Paula  
 **Formação:** Biólogo | Perito Ambiental | Analista de Dados  
